@@ -1,20 +1,24 @@
-# Project 1 – Sales Data Analysis
+# Simple Sales Analysis Demo
+# Author: Miss Nyunge
 
-## 📌 Overview
-This project analyzes sales data to understand trends, total revenue, and best-performing products.
+import pandas as pd
 
-## 🛠 Tools & Technologies
-- Python
-- Pandas
-- NumPy
-- Matplotlib / Seaborn
-- Jupyter Notebook
+# Create simple sales data
+data = {
+    "Product": ["Product A", "Product B", "Product C", "Product D"],
+    "Revenue": [1200, 900, 1500, 700]
+}
 
-## 📊 What was done
-- Data loading and exploration
-- Data cleaning
-- Sales aggregation
-- Basic visualizations
+# Create DataFrame
+df = pd.DataFrame(data)
 
-## 🚀 Goal
-Build a strong foundation in data analysis using real-world-style sales data.
+# Display data
+df
+
+# Total revenue
+total_revenue = df["Revenue"].sum()
+total_revenue
+
+# Best selling product
+best_product = df.loc[df["Revenue"].idxmax()]
+best_product
