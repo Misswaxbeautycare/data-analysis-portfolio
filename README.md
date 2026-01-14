@@ -1,32 +1,58 @@
-# data-analysis-portfolio
-Beginner data analysis portfolio using Python and pandas
-Data Analysis Portfolio – Miss Nyunge
+# 📊 Project 1 – Sales Analysis
 
-👋 Welcome to my data analysis portfolio.
+## 📌 Overview
+This project is an entry-level data analysis project using Python and pandas.
+The objective is to analyze product revenues and extract clear and actionable insights.
 
-My name is **Miss Nyunge**, and this repository showcases my journey and projects in **data analysis using Python**.
+This project demonstrates my ability to:
+- Work with structured datasets
+- Perform data analysis using Python
+- Interpret results clearly
+- Create visualizations to support insights
 
-## 🔍 Skills
+---
+
+## 🛠️ Tools & Technologies
 - Python
 - Pandas
-- NumPy
-- Data Cleaning
-- Data Visualization (Matplotlib, Seaborn)
-- Exploratory Data Analysis (EDA)
+- Matplotlib
+- Google Colab
 
-## 📂 Projects
-This portfolio will include beginner to intermediate projects such as:
-- Sales data analysis
-- Customer insights
-- Data cleaning and transformation
-- Visual reports and insights
+---
 
-Each project contains:
-- Clean and commented Python code
-- A dataset (CSV)
-- Clear explanations and conclusions
+## 📂 Dataset
+The dataset contains sales revenue information for multiple products:
+- Product name
+- Revenue per product
 
-## 🎯 Goal
-To build a strong foundation in data analysis and progress toward **AI / Machine Learning** studies and professional opportunities.
+The dataset was created for educational and portfolio demonstration purposes.
 
-📫 Contact: GitHub – Misswaxbeautycare
+---
+
+## 🔍 Analysis Performed
+The following analyses were conducted:
+- Data loading and exploration
+- Calculation of total revenue
+- Identification of the highest-performing product
+- Visualization of revenue distribution by product
+
+---
+
+## 📈 Key Insights
+- The total revenue generated is **4300**
+- **Product C** is the top-performing product
+- Product D generates the lowest revenue and may require optimization strategies
+
+---
+
+## 📊 Visualization
+A bar chart was created to compare revenue across products.
+This visualization helps identify performance differences between products.
+
+---
+
+## ✅ Conclusion
+This project highlights my foundational skills in data analysis using Python.
+It reflects my ability to analyze data, extract insights, and communicate results effectively.
+
+This project is part of my professional data analytics portfolio.
