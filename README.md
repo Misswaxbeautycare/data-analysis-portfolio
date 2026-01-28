@@ -1,58 +1,26 @@
-# 📊 Project 1 – Sales Analysis
+Project 1 – Sales Analysis# Project 1 – Sales Analysis
 
-## 📌 Overview
-This project is an entry-level data analysis project using Python and pandas.
-The objective is to analyze product revenues and extract clear and actionable insights.
+## Overview
+This project focuses on analyzing sales data to understand product performance
+and revenue distribution. The objective is to extract meaningful insights that
+can support business decision-making.
 
-This project demonstrates my ability to:
-- Work with structured datasets
-- Perform data analysis using Python
-- Interpret results clearly
-- Create visualizations to support insights
+## Objectives
+- Analyze revenue by product
+- Identify top-performing products
+- Practice exploratory data analysis using Python
+- Communicate insights clearly
 
----
+## Dataset
+The dataset contains structured sales data in CSV format, including product names
+and revenue values.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python
 - Pandas
-- Matplotlib
-- Google Colab
 
----
+## Key Outcomes
+- Clear identification of high-revenue products
+- Structured analysis workflow
+- Improved understanding of data-driven insights
 
-## 📂 Dataset
-The dataset contains sales revenue information for multiple products:
-- Product name
-- Revenue per product
-
-The dataset was created for educational and portfolio demonstration purposes.
-
----
-
-## 🔍 Analysis Performed
-The following analyses were conducted:
-- Data loading and exploration
-- Calculation of total revenue
-- Identification of the highest-performing product
-- Visualization of revenue distribution by product
-
----
-
-## 📈 Key Insights
-- The total revenue generated is **4300**
-- **Product C** is the top-performing product
-- Product D generates the lowest revenue and may require optimization strategies
-
----
-
-## 📊 Visualization
-A bar chart was created to compare revenue across products.
-This visualization helps identify performance differences between products.
-
----
-
-## ✅ Conclusion
-This project highlights my foundational skills in data analysis using Python.
-It reflects my ability to analyze data, extract insights, and communicate results effectively.
-
-This project is part of my professional data analytics portfolio.
