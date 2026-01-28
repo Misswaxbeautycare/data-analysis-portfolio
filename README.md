@@ -1,4 +1,4 @@
-Project 1 – Sales Analysis# Project 1 – Sales Analysis
+Project 1 – Sales Analysis
 
 ## Overview
 This project focuses on analyzing sales data to understand product performance
